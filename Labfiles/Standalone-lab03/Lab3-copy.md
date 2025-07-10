@@ -209,7 +209,7 @@ In this task, you'll log into GitHub, create a new repository from a template, c
       function calculateNumbers(var1, var2)
       ```
       
-      > **Note:** A whole function body will be automatically suggested by GitHub Copilot in gray text. Here's an example of what you are likely to see; however, the precise recommendation could vary. If you do not see a code recommendation, try adding a space after the code. 
+      > **Note:** A whole function body will be automatically suggested by GitHub Copilot. Here's an example of what you are likely to see; however, the precise recommendation could vary. If you do not see a code recommendation, try adding a space after the code. 
       
       > **Note:** If the suggestions are not visible, close Visual Studio Code and then reopen it. 
 
