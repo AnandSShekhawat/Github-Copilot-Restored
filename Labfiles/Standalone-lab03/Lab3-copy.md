@@ -213,7 +213,7 @@ In this task, you'll log into GitHub, create a new repository from a template, c
       
       > **Note:** If the suggestions are not visible, close Visual Studio Code and then reopen it. 
 
-      ![](media/skills(1)(1).png)
+      ![](media/skills(1)(2).png)
 
       >**Note:** Suggestions may not be exactly as shown in the picture, but they could be similar.
 
